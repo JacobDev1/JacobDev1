@@ -1,4 +1,4 @@
-# Hello World
+## Hello World
 I'm a computer scientist looking for a job.
 
 ## Skills
