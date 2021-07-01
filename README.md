@@ -5,7 +5,7 @@ I'm a computer scientist looking for a job.
 
 **C++ · Python · JS · HTML · CSS**
 
-*Can be any language or technology you need, I'm a fast-learner.*
+*Can be any language or technology you need, I'm flexible.*
 
 Certified in **fixing computers**,  **networking** and **programming**.
 
