@@ -13,6 +13,4 @@ I also know some **audio engineering** and **graphic design**.
 
 ## Contact
 
-Contact@lookupweb.site
-
 JacobDevContact@pm.me
