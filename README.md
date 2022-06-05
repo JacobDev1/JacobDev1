@@ -12,5 +12,5 @@ Certified in **fixing computers**,  **networking** and **programming**.
 I also know some **audio engineering** and **graphic design**.
 
 ## Contact
-contact@lookupweb.site
+JacobDevContact@pm.me
 
